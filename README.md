@@ -11,7 +11,7 @@ I'm a Software Engineer and Data Analyst. I'm passionate about sharing knowledge
 - 😊 Pronouns: He/him
 - I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning JavaScript, Reactjs, and Python.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 😊 I’m looking collaborate on open source projects and hackathons.
 - 💼 Job interests: Software Engineer, Data Analyst.
 - 📫 You can contact me by emailing adenijitobi94@gmail.com.
 
