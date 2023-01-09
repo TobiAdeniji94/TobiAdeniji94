@@ -9,7 +9,6 @@ I'm a Software Engineer and Data Analyst. I'm passionate about sharing knowledge
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning NodeJS and Python.
 - 😊 I’m looking collaborate on open source projects and hackathons.
 - 💼 Job interests: Software Engineer, Data Analyst.
