@@ -9,7 +9,6 @@ I'm a Software Engineer and Data Analyst. I'm passionate about sharing knowledge
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 🌱 I’m currently learning NodeJS and Python.
 - 😊 I’m looking collaborate on open source projects and hackathons.
 - 💼 Job interests: Software Engineer, Data Analyst.
 - 📫 You can contact me by emailing adenijitobi94@gmail.com.
