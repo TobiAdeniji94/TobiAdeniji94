@@ -6,11 +6,5 @@
 
 I'm a Software Engineer and Data Analyst. I'm passionate about sharing knowledge, documentation, web engineering, Data Science and others. I build useful [open-source projects](https://github.com/TobiAdeniji94)...
 
-**Here's a quick summary about me**:
-
-- 😊 I’m looking collaborate on open source projects and hackathons.
 - 💼 Job interests: Software Engineer, Data Analyst.
 - 📫 You can contact me by emailing adenijitobi94@gmail.com.
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=TobiAdeniji94&show_icons=true&include_all_commits=true&hide_border=true" alt="Tobi's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TobiAdeniji94&langs_count=8&layout=compact&hide_border=true" alt="Tobi's GitHub stats" /> |
-| ------------- | ------------- |
